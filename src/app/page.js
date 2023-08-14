@@ -23,7 +23,7 @@ export default function Home() {
   return (
   <>
     <Head>
-      <title>Xphere | Login</title>
+      <title>X-steel | Login</title>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
     </Head>
@@ -34,7 +34,7 @@ export default function Home() {
         </div>
         <div className="col-lg-6">
           
-          <h1 className="titulo display-5 fw-bold lh-1 mb-3">Xphere</h1>
+          <h1 className="titulo display-5 fw-bold lh-1 mb-3">X-steel</h1>
           <p className="lead fw-bold">Your decentralized social network.</p>
           <p className="lead mb-3">Sign in with your wallet, express your thoughts and stay updated on happenings. </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
