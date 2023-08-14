@@ -44,9 +44,10 @@ export default function Timeline() {
     return (
         <>
         <Head>
-            <title>X-steel | Timeline</title>
+           
             <meta charSet="utf-8" />
              <meta name="viewport" content="width=device-width, initial-scale=1" />
+             <title>X-steel | Timeline</title>
         </Head>
 
         <div className="container">
