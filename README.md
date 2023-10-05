@@ -13,4 +13,6 @@ The purpose of my decentralized social network project is to create a hands-on l
 
 ## Usage <a name = "usage"></a>
 
+The project runs in BNB Smart Chain Testnet 
+
 The project was deployed on the domain https://x-steel.vercel.app/
